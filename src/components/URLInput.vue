@@ -56,7 +56,7 @@ const handleSubmit = () => {
         
         <button 
           type="submit"
-          class="flex items-center gap-2 py-3 px-6 bg-linear-to-br from-accent-primary to-accent-secondary border-none rounded-[12px] text-white text-base font-semibold cursor-pointer transition-all hover:-translate-y-0.5 hover:shadow-[0_8px_24px_rgba(99,102,241,0.4)] active:translate-y-0 shrink-0"
+          class="flex items-center gap-2 py-3 px-6 bg-linear-to-br from-accent-primary to-accent-secondary border-none rounded-[12px] text-white text-base font-semibold cursor-pointer transition-all  hover:shadow-[0_8px_24px_rgba(99,102,241,0.4)] active:translate-y-0 shrink-0"
         >
           <span>Preview</span>
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
